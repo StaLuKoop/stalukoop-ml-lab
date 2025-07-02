@@ -1,0 +1,24 @@
+name: stalukoop-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - numpy
+  - pandas
+  - fastapi
+  - xgboost
+  - uvicorn
+  - python=3.12
+  - notebook
+  - ipykernel
+  - tensorflow
+  - pytorch
+  - pymysql
+  - sqlalchemy
+  - python-dotenv
+  - joblib
+  - httpx
+prefix: D:\Programs\miniconda3\envs\stalukoop-env
