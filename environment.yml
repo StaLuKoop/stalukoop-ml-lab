@@ -1,24 +1,24 @@
-name: stalukoop-env
+name: bleedmagic
 channels:
-  - conda-forge
   - defaults
 dependencies:
-  - seaborn
-  - matplotlib
+  - python=3.11
   - scikit-learn
+  - matplotlib
   - numpy
   - pandas
-  - fastapi
-  - xgboost
-  - uvicorn
-  - python=3.12
-  - notebook
-  - ipykernel
-  - tensorflow
-  - pytorch
-  - pymysql
-  - sqlalchemy
-  - python-dotenv
+  - seaborn
   - joblib
+  - uvicorn
+  - fastapi
+  - pymysql
+  - python-dotenv
   - httpx
-prefix: D:\Programs\miniconda3\envs\stalukoop-env
+  - sqlalchemy
+  - xgboost
+  - pytorch
+  - tensorflow
+  - ipykernel
+  - spyder
+  - notebook
+prefix: D:\Programs\miniconda3\envs\bleedmagic
